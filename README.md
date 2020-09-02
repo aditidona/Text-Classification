@@ -14,11 +14,12 @@ Dataset: 20 news_groups
   
   The Model is trained and tested on this feature matrix to acheive the accuracy as listed below.  
   
-  #1 Implement inbuilt Multinomial Naive Bayes.
+  # Implementation of inbuilt Multinomial Naive Bayes.
     Accuracy: 86.12%
 
-  #2 Implement a Multinomial Naiye Bayes class from scratch
+  # Implementation of Multinomial Naiye Bayes class from scratch
     Accuracy: 86.02%
     
-  #Conclusion: The Multinomial Naive Bayes implemented from scratch shows accuracy very close to the inbuilt classifier.
+  # Conclusion
+  The Multinomial Naive Bayes implemented from scratch shows accuracy very close to the inbuilt classifier.
   
