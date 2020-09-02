@@ -4,7 +4,7 @@ Dataset: 20 news_groups
 # Pre-Processing
   The task is to classify a test document into one of the 20 news_groups.
   
-  To achive that i have made a list of words that might help me in determining the group that it belongs to. I have removed a set of words called "STOPWORDS" which are the most common words from this list.
+  To achieve that i have made a list of words that might help me in determining the group that it belongs to. I have removed a set of words called "STOPWORDS" which are the most common words from this list.
   This "Vocabulary" Dictionary contains all the 20 news_groups as keys, and the frequency of all important words as value.
   
   This Dictionary is used to select a the cut-off frequency, by using a plot. This cut_off Frequency removes all the words which have comparatively lower frequency.
