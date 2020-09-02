@@ -17,7 +17,7 @@ Dataset: 20 news_groups
   # Implementation of inbuilt Multinomial Naive Bayes.
     Accuracy: 86.12%
 
-  # Implementation of Multinomial Naiye Bayes class from scratch
+  # Implementation of Multinomial Naiye Bayes from Scratch
     Accuracy: 86.02%
     
   # Conclusion
